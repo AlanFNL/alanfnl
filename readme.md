@@ -26,37 +26,15 @@ I'm all about creating clean, smooth user experiences. Work mostly with React an
 
 ## 🛠️ Tech Stack
 
-<table width="100%">
-<tr>
-<td valign="top" width="100%">
+<div align="center">
 
-### 📝 Languages
-• **JavaScript**  
-• **HTML & CSS**
+**📝 Languages:** JavaScript • HTML & CSS
 
-</td>
-<td valign="top" width="100%">
+**⚛️ Frameworks & Libraries:** React • TailwindCSS • Framer Motion • Node.js • i18n
 
-### ⚛️ Frameworks & Libraries
-• **React**  
-• **TailwindCSS**  
-• **Framer Motion**  
-• **Node.js**  
-• **i18n**
+**🔧 Tools:** Vite • Vercel • Supabase • Resend • Bun
 
-</td>
-<td valign="top" width="100%">
-
-### 🔧 Tools & Platforms
-• **Vite**  
-• **Vercel**  
-• **Supabase**  
-• **Resend**  
-• **Bun**
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
