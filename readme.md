@@ -28,14 +28,14 @@ I'm all about creating clean, smooth user experiences. Work mostly with React an
 
 <table width="100%">
 <tr>
-<td valign="top" width="25%">
+<td valign="top" width="33%">
 
 ### 📝 Languages
 • **JavaScript**  
 • **HTML & CSS**
 
 </td>
-<td valign="top" width="40%">
+<td valign="top" width="33%">
 
 ### ⚛️ Frameworks & Libraries
 • **React**  
@@ -45,7 +45,7 @@ I'm all about creating clean, smooth user experiences. Work mostly with React an
 • **i18n**
 
 </td>
-<td valign="top" width="35%">
+<td valign="top" width="33%">
 
 ### 🔧 Tools & Platforms
 • **Vite**  
