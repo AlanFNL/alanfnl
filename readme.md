@@ -26,7 +26,7 @@ I'm all about creating clean, smooth user experiences. Work mostly with React an
 
 ## 🛠️ Tech Stack
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="33%">
 
@@ -35,7 +35,7 @@ I'm all about creating clean, smooth user experiences. Work mostly with React an
 • **HTML & CSS**
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="34%">
 
 ### ⚛️ Frameworks & Libraries
 • **React**  
