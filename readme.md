@@ -47,7 +47,7 @@ I'm all about creating clean, smooth user experiences. Work mostly with React an
 ### 🛒 [Reforce Marketplace](https://ref-mktplace-test2.vercel.app/)
 AI-powered agencies marketplace
 
-**Tech:** React + Vite, TailwindCSS, Framer Motion, Supabase, Resend
+**Tech:** React + Vite, TailwindCSS, Framer Motion, Supabase, Resend<br>
 
 </td>
 <td width="50%">
@@ -55,7 +55,7 @@ AI-powered agencies marketplace
 ### 🏢 [Reforce Infinity](https://reforceinfinity.com)
 Digital innovation studio landing page
 
-**Tech:** React + Vite, TailwindCSS, Framer Motion, i18n
+**Tech:** React + Vite, TailwindCSS, Framer Motion, i18n<br>
 
 </td>
 </tr>
@@ -65,7 +65,7 @@ Digital innovation studio landing page
 ### ⌨️ [Onitype](https://typing-test-dev.vercel.app)
 Typing test with contest dashboard
 
-**Tech:** React + Vite, TailwindCSS, Framer Motion
+**Tech:** React + Vite, TailwindCSS, Framer Motion<br>
 
 </td>
 <td width="50%">
@@ -73,7 +73,7 @@ Typing test with contest dashboard
 ### 🏗️ [DLS Constructions](https://dlsconstructions.com)
 Clean website for construction company
 
-**Tech:** React + Vite, TailwindCSS
+**Tech:** React + Vite, TailwindCSS<br>
 
 </td>
 </tr>
