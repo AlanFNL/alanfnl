@@ -28,7 +28,7 @@ I'm all about creating clean, smooth user experiences. Work mostly with React an
 
 <div align="center">
 
-**📝 Languages:** JavaScript • HTML & CSS
+**📝 Languages:** TypeScript • JavaScript • HTML & CSS
 
 **⚛️ Frameworks & Libraries:** React • TailwindCSS • Framer Motion • Node.js • i18n
 
