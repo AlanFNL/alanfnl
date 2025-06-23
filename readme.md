@@ -89,12 +89,6 @@ Clean website for construction company
 **📍 Location:** Argentina (GMT-3)  
 **🗣️ Languages:** Spanish (native), English (proficient)
 
-<br>
-
-Currently open to new opportunities.<br>
-If you need someone who cares about the details and likes to keep things simple, let's chat.
-
-<br>
 
 ---
 
