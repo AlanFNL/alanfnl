@@ -30,7 +30,7 @@ I'm all about creating clean, smooth user experiences. Work mostly with React an
 
 **📝 Languages:** TypeScript • JavaScript • HTML & CSS
 
-**⚛️ Frameworks & Libraries:** React • TailwindCSS • Framer Motion • Node.js • i18n
+**⚛️ Frameworks & Libraries:** React • TailwindCSS • Framer Motion • Redux • Node.js • i18n
 
 **🔧 Tools:** Vite • Vercel • Supabase • Resend • Bun
 
