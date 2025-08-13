@@ -87,6 +87,6 @@ Clean website for construction company
 
 ---
 
-<em>"A minor setback paves the way for a major comeback." — Juice Wrld</em>
+<em>"A minor setback paves the way for a major comeback." — Juice WRLD</em>
 
 </div>
