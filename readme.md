@@ -87,6 +87,6 @@ Clean website for construction company
 
 ---
 
-<em>"I enjoy creating clean, animated interfaces" — that pretty much sums it up.</em>
+<em>"A minor setback paves the way for a major comeback." — Juice Wrld</em>
 
 </div>
