@@ -8,11 +8,7 @@
 </p>
 
 <p>
-  Game development was my first step into coding, but web development is where I really found myself.
-  
-  I love creating clean, smooth, and user-friendly experiences. I’d rather stay up all night chasing a tricky bug than leave it for later, always looking for better ways to do things and learning what’s new. 
-  
-  When I’m not coding, you’ll find me listening to Taylor Swift or Juice WRLD, cheering for Cristiano Ronaldo, or gaming and laughing with friends.
+Frontend-focused web developer with 3+ years experience. I love building smooth and clean interfaces, but when I’m not coding you’ll find me listening to Taylor Swift or Juice WRLD, cheering for Cristiano Ronaldo, or gaming with friends.
 </p>
 
 </div>
