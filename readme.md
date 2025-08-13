@@ -4,21 +4,20 @@
 # Hi, I'm Alan 👋
 
 <p>
-  <strong>Frontend Developer</strong> • 🇦🇷 Argentina • 22 years old
+  <strong>Software Engineer</strong> • 🇦🇷 Argentina • 22 years old
 </p>
 
 <p>
-  I build web interfaces that people actually enjoy using.<br>
-  Been coding for 3+ years, started with game development but found my spot in frontend work.
+  Game development was my first step into coding, but web development is where I really found myself.
+  
+  I love creating clean, smooth, and user-friendly experiences. I’d rather stay up all night chasing a tricky bug than leave it for later, always looking for better ways to do things and learning what’s new. 
+  
+  When I’m not coding, you’ll find me listening to Taylor Swift or Juice WRLD, cheering for Cristiano Ronaldo, or gaming and laughing with friends.
 </p>
 
 </div>
 
 ---
-
-## 💼 What I Do
-
-I'm all about creating clean, smooth user experiences. Work mostly with React and love making things feel fast and responsive.
 
 **🏢 Currently working at Reforce Infinity** as a Full Stack Developer since Jan 2022.
 
@@ -30,7 +29,7 @@ I'm all about creating clean, smooth user experiences. Work mostly with React an
 
 **📝 Languages:** TypeScript • JavaScript • HTML & CSS
 
-**⚛️ Frameworks & Libraries:** React • TailwindCSS • Framer Motion • Redux • React Query •  Node.js • i18n
+**⚛️ Frameworks & Libraries:** React • TailwindCSS • Framer Motion • NextJS • Redux • React Query •  Node.js • i18n
 
 **🔧 Tools:** Vite • Vercel • Supabase • Resend • Bun
 
