@@ -8,7 +8,7 @@
 </p>
 
 <p>
-Frontend-focused web developer with 3+ years experience. I love building smooth and clean interfaces, but when I’m not coding you’ll find me listening to Taylor Swift or Juice WRLD, cheering for Cristiano Ronaldo, or gaming with friends.
+Frontend-specialized web developer with 3+ years experience. I love building smooth and clean interfaces, but when I’m not coding you’ll find me listening to Taylor Swift or Juice WRLD, cheering for Cristiano Ronaldo, or gaming with friends.
 </p>
 
 </div>
