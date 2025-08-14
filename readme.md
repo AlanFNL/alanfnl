@@ -87,6 +87,6 @@ Clean website for construction company
 
 ---
 
-<em>"A minor setback paves the way for a major comeback." — Juice WRLD</em>
+<em>"Dreams are not what you see in your sleep, they are the things that don’t let you sleep." — Cristiano Ronaldo</em>
 
 </div>
