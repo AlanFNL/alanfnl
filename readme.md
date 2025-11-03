@@ -15,7 +15,7 @@ Web developer focused on frontend work, with 3+ years creating interfaces that t
 
 ---
 
-**🏢 Currently working at Cavia Agency (Formerly Reforce Infinity)** as a Full Stack Developer since Jan 2022.
+**🏢 Currently working at Cavia Agency (Formerly Reforce Infinity)** as a Head of Tech since Jan 2022.
 
 ---
 
