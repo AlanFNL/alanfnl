@@ -39,7 +39,7 @@ Web developer focused on frontend work, with 3+ years creating interfaces that t
 <tr>
 <td width="50%">
 
-### 🛒 [Reforce Marketplace](https://ref-mktplace-test2.vercel.app/)
+### 🛒 [Needfindr](https://ref-mktplace-test2.vercel.app/)
 AI-powered agencies marketplace
 
 **Tech:** React + Vite, TailwindCSS, Framer Motion, Supabase, Resend<br>
