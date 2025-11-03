@@ -27,7 +27,7 @@ Web developer focused on frontend work, with 3+ years creating interfaces that t
 
 **⚛️ Frameworks & Libraries:** React • TailwindCSS • Framer Motion • NextJS • Redux • React Query •  Node.js • i18n
 
-**🔧 Tools:** Vite • Vercel • Supabase • Resend • Bun
+**🔧 Tools:** Cursor • Codex • Claude Code • Vite • Vercel • Supabase • Resend • Bun
 
 </div>
 
