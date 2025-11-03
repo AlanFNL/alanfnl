@@ -8,14 +8,14 @@
 </p>
 
 <p>
-Frontend-specialized web developer with 3+ years of experience turning ideas into smooth, clean, user-friendly interfaces. When I’m not coding, you’ll find me listening to Taylor Swift or Juice WRLD, supporting Cristiano Ronaldo, or gaming with friends.
+Web developer focused on frontend work, with 3+ years creating interfaces that transform ideas into working solutions. Passionate about AI and always exploring what's next in tech. When I'm not coding, you'll find me listening to Taylor Swift or Juice WRLD, supporting Cristiano Ronaldo, or gaming with friends.
 </p>
 
 </div>
 
 ---
 
-**🏢 Currently working at Reforce Infinity** as a Full Stack Developer since Jan 2022.
+**🏢 Currently working at Cavia Agency (Formerly Reforce Infinity)** as a Full Stack Developer since Jan 2022.
 
 ---
 
