@@ -8,7 +8,7 @@
 </p>
 
 <p>
-Web developer focused on frontend work, with 3+ years creating interfaces that transform ideas into working solutions. Passionate about AI and always exploring what's next in tech. When I'm not coding, you'll find me listening to Taylor Swift or Juice WRLD, supporting Cristiano Ronaldo, or gaming with friends.
+Web developer focused on frontend work, with 4+ years creating interfaces that transform ideas into working solutions. Passionate about AI and always exploring what's next in tech. When I'm not coding, you'll find me listening to Taylor Swift or Juice WRLD, supporting Cristiano Ronaldo, or gaming with friends.
 </p>
 
 </div>
@@ -27,7 +27,7 @@ Web developer focused on frontend work, with 3+ years creating interfaces that t
 
 **⚛️ Frameworks & Libraries:** React • TailwindCSS • Framer Motion • NextJS • Redux • React Query •  Node.js • i18n
 
-**🔧 Tools:** Cursor • Codex • Claude Code • Vite • Vercel • Supabase • Resend • Bun
+**🔧 Tools:** Cursor • Codex • Antigravity • Vite • Vercel • Supabase • Resend • Bun
 
 </div>
 
@@ -84,9 +84,5 @@ Clean website for construction company
 **📍 Location:** Argentina (GMT-3)  
 **🗣️ Languages:** Spanish (native), English (proficient)
 
-
----
-
-<em>"Dreams are not what you see in your sleep, they are the things that don’t let you sleep." — Cristiano Ronaldo</em>
 
 </div>
