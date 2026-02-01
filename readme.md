@@ -8,7 +8,7 @@
 </p>
 
 <p>
-Web developer focused on frontend work, with 4+ years creating interfaces that transform ideas into working solutions. Passionate about AI and always exploring what's next in tech. When I'm not coding, you'll find me listening to Taylor Swift or Juice WRLD, supporting Cristiano Ronaldo, or gaming with friends.
+Web developer focused on frontend work, with 4+ years of experience. Into AI and keeping up with tech. When I'm not coding, you'll find me listening to Taylor Swift or Juice WRLD, supporting Cristiano Ronaldo, or gaming with friends.
 </p>
 
 </div>
