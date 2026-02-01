@@ -38,6 +38,7 @@ Web developer focused on frontend work, with 4+ years of experience. Into AI and
 - **[Cavia Agency](https://cavia.agency)** — Website for a digital marketing studio.
 - **[Ardua Solutions](https://arduasolutions.com)** — Multi-language and CMS included website for a fintech.
 - **[OniEdit](https://edit.onicaps.com.ar/)** — Online editor to create your own keycaps and mousepads.
+- **[NeedFindr](https://ref-mktplace-test2.vercel.app/)** — AI-Powered Agency Marketplace.
 - **[Reforce Infinity](https://reforceinfinity.com)** — Digital innovation studio landing page.
 - **[OniType](https://typing-test-dev.vercel.app)** — Typing test for local contests.
 - **[AtlasCoach](https://atlascoach.ai)** — AI-Powered vocational guidance.
