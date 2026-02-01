@@ -35,44 +35,15 @@ Web developer focused on frontend work, with 4+ years of experience. Into AI and
 
 ## 🚀 Recent Projects
 
-<table>
-<tr>
-<td width="50%">
+- **[Cavia Agency](https://cavia.agency)** — Website for a digital marketing studio.
+- **[Ardua Solutions](https://arduasolutions.com)** — Multi-language and CMS included website for a fintech.
+- **[OniEdit](https://edit.onicaps.com.ar/)** — Online editor to create your own keycaps and mousepads.
+- **[Reforce Infinity](https://reforceinfinity.com)** — Digital innovation studio landing page.
+- **[OniType](https://typing-test-dev.vercel.app)** — Typing test for local contests.
+- **[AtlasCoach](https://atlascoach.ai)** — AI-Powered vocational guidance.
+- **[CatSiege](https://catsiege.fun)** — NFT Collection with tournaments and minigames for holders.
+- **[DLSConstructions](https://dlsconstructions.com)** — Elderly-focused landing page.
 
-### 🛒 [Needfindr](https://ref-mktplace-test2.vercel.app/)
-AI-powered agencies marketplace
-
-**Tech:** React + Vite, TailwindCSS, Framer Motion, Supabase, Resend<br>
-
-</td>
-<td width="50%">
-
-### 🏢 [Reforce Infinity](https://reforceinfinity.com)
-Digital innovation studio landing page
-
-**Tech:** React + Vite, TailwindCSS, Framer Motion, i18n<br>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ⌨️ [Onitype](https://typing-test-dev.vercel.app)
-Typing test with contest dashboard
-
-**Tech:** React + Vite, TailwindCSS, Framer Motion<br>
-
-</td>
-<td width="50%">
-
-### 🏗️ [DLS Constructions](https://dlsconstructions.com)
-Clean website for construction company
-
-**Tech:** React + Vite, TailwindCSS<br>
-
-</td>
-</tr>
-</table>
 
 ---
 
