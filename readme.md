@@ -21,7 +21,7 @@ Web developer focused on frontend work, with 4+ years of experience. Into AI and
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 **📝 Languages:** TypeScript • JavaScript • HTML & CSS
 
@@ -78,7 +78,7 @@ Clean website for construction company
 
 ## 📬 Get in Touch
 
-<div align="center">
+<div align="left">
 
 **📧 Email:** [alanfnl09@gmail.com](mailto:alanfnl09@gmail.com)  
 **📍 Location:** Argentina (GMT-3)  
