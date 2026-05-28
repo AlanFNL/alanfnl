@@ -27,7 +27,7 @@ Web developer focused on frontend work, with 4+ years of experience. Into AI and
 
 **⚛️ Frameworks & Libraries:** React • TailwindCSS • Framer Motion • NextJS • Redux • React Query •  Node.js • i18n
 
-**🔧 Tools:** Cursor • Codex • Antigravity • Vite • Vercel • Supabase • Resend • Bun
+**🔧 Tools:** Claude Code • Cursor • Codex • Antigravity • Vite • Vercel • Supabase • Resend • Bun
 
 </div>
 
